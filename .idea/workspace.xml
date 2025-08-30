@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e992ecb0-f673-47da-9267-baef4171a8a8" name="Changes" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/platformer_tutorial_level.png" afterDir="false" />
+    <list default="true" id="e992ecb0-f673-47da-9267-baef4171a8a8" name="Changes" comment="Starting on level editor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelLoader.py" beforeDir="false" afterPath="$PROJECT_DIR$/LevelLoader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="31X5NuwBkjWDeEnvQLpEzyn9Egm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -96,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755826844717</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Starting on level editor">
+      <option name="closed" value="true" />
+      <created>1755828408583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755828408583</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="Starting on level editor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting on level editor" />
   </component>
 </project>
